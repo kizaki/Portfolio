@@ -1,0 +1,55 @@
+---
+anchor: "ポートフォリオ"
+header: "ポートフォリオ"
+subheader: "今までプロジェクトや個人作成で関わった作品を公開します。"
+portfolios: [
+  {
+    imageFileName: "portfolio/01-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/01-full.jpg",
+    header: "ポケットヘルスケア",
+    subheader: "モバイルアプリケーション",
+    content: "ポケットヘルスケアでは、歩数・体重・脈拍などの「健康データ」の管理機能や、健康データと健康診断・採血検査の結果データをもとに生活習慣病の発症リスク度を提示する「健康スコア」、利用者が自覚症状を複数の質問に回答することで適切な受診先を提示する「AI受診相談」、近隣の医療機関情報を提示する「医療機関検索」の機能などをパートナー企業と連携し、提供します。これにより、日頃の健康管理が本アプリ1つで可能になります。また、都公募事業での利用実績を踏まえ、2021年4月以降、本アプリの商用提供を目指していきます。",
+    extraInfo: ["日付： 2021年2月よりアサイン（開発中）", "URL: https://toshima.lg.healthcare.auone.jp/", "カテゴリ: モバイルアプリケーション", "提供会社： KDDI株式会社"]
+  },
+  {
+    imageFileName: "portfolio/02-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/02-full.jpg",
+    header: "タスクコンシェルジュ",
+    subheader: "ウェブアプリケーション",
+    content: "ビジネスのグローバル化が進む中、企業のIT戦略としてのオフショア開発は今や特別なことではありません。オフショア開発の目的においても、「コスト削減」より「ビジネスのグローバル化」「海外市場開拓」「高い海外技術の活用」と多岐に渡ってきています。本プロジェクトでは、東京都立産業技術大学院大学（AIIT）とベトナム国家大学（VNU）との共同PBLを実施した成果です。ソフトウェア開発プロジェクト活動を通じて、グローバルソフトウェア開発に求められるコンピテンシーの獲得をしました。",
+    extraInfo: ["開発期間： 2010年4月～2011年2月", "対象: 通常のタスク管理アプリケーションで効率化出来なかった方", "カテゴリ: ウェブアプリケーション","コミュニケーションツール： Skype, Google Group, Redmine", "開発手法： Unified Processをベースとした反復型プロセスを採用", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： App Engine(GCP)", "開発環境：Eclipse, Subversion", "開発言語： Java, HTML, JavaScript, CSS", "データベース： Cloud Bigtable(GCP)", "フレームワーク： Spring, Hibernate"]
+  },
+  {
+    imageFileName: "portfolio/03-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/03-full.jpg",
+    header: "Finish",
+    subheader: "アイデンティティ",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
+  },
+  {
+    imageFileName: "portfolio/04-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/04-full.jpg",
+    header: "Lines",
+    subheader: "ブランディング",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Lines", "カテゴリ: Branding"]
+  },
+  {
+    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/05-full.jpg",
+    header: "Southwest",
+    subheader: "ウェブサイトデザイン",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Southwest", "カテゴリ: Website Design"]
+  },
+  {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "Window",
+    subheader: "フォトショップ",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+  }
+]
+---
