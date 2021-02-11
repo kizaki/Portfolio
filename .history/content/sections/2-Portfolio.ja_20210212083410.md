@@ -17,7 +17,7 @@ portfolios: [
     header: "タスクコンシェルジュ",
     subheader: "ウェブアプリケーション",
     content: "ビジネスのグローバル化が進む中、企業のIT戦略としてのオフショア開発は今や特別なことではありません。オフショア開発の目的においても、「コスト削減」より「ビジネスのグローバル化」「海外市場開拓」「高い海外技術の活用」と多岐に渡ってきています。本プロジェクトでは、東京都立産業技術大学院大学（AIIT）とベトナム国家大学（VNU）との共同PBLを実施した成果です。ソフトウェア開発プロジェクト活動を通じて、グローバルソフトウェア開発に求められるコンピテンシーの獲得をしました。",
-    extraInfo: ["開発期間： 2010年4月～2011年2月", "対象: 通常のタスク管理アプリケーションで効率化出来なかった方", "カテゴリ: ウェブアプリケーション","コミュニケーションツール： Skype, Google Group","プロジェクト管理ツール： Redmine", "開発手法： Unified Processをベースとした反復型プロセスを採用（チケット駆動開発）", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： App Engine(GCP)", "構成管理ツール： Subversion","開発環境：Eclipse", "開発言語： Java, HTML, JavaScript, CSS", "データベース： Cloud Bigtable(GCP)", "フレームワーク： Spring, Hibernate"]
+    extraInfo: ["開発期間： 2010年4月～2011年2月", "対象: 通常のタスク管理アプリケーションで効率化出来なかった方", "カテゴリ: ウェブアプリケーション","コミュニケーションツール： Skype, Google Group","プロジェクト管理ツール： Redmine", "開発手法： Unified Processをベースとした反復型プロセスを採用", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： App Engine(GCP)", "開発環境：Eclipse, Subversion", "開発言語： Java, HTML, JavaScript, CSS", "データベース： Cloud Bigtable(GCP)", "フレームワーク： Spring, Hibernate"]
   },
   {
     imageFileName: "portfolio/03-thumbnail.jpg",
