@@ -45,11 +45,11 @@ portfolios: [
     },
    {
      imageFileName: "portfolio/06-thumbnail.jpg",
-     imageFileNameDetail: "portfolio/06-full.jpg",
-     header: "おみくじアプリ",
-     subheader: "Android/iOSアプリケーション",
-     content: "シンプルなおみくじ占いアプリです。占いボタンを押すと今日の運勢をランダムで占ってくれます。日本工学院八王子専門学校の授業用に開発しました。",
-     extraInfo: ["開発期間： 2016年4月", "対象: 一般ユーザー", "カテゴリ: Android/iOSアプリ", "開発手法： スクラッチ開発", "開発環境：Android Studio, Xcode", "開発言語： Kotlin, Swift", "URL: https://play.google.com/store/apps/details?id=jp.ac.neec.hiandlo&hl=ja&gl=US","提供会社： 日本工学院八王子専門学校"]
-  },
+     imageFileNameDetail: "portfolio/06-full.png",
+     header: "Androidアプリケーション",
+     subheader: "フォトショップ",
+     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+     extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+  }
 ]
 ---

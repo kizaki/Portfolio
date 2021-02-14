@@ -45,7 +45,7 @@ portfolios: [
     },
    {
      imageFileName: "portfolio/06-thumbnail.jpg",
-     imageFileNameDetail: "portfolio/06-full.jpg",
+     imageFileNameDetail: "portfolio/06-full.png",
      header: "おみくじアプリ",
      subheader: "Android/iOSアプリケーション",
      content: "シンプルなおみくじ占いアプリです。占いボタンを押すと今日の運勢をランダムで占ってくれます。日本工学院八王子専門学校の授業用に開発しました。",
