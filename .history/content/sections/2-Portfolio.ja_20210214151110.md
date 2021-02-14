@@ -5,12 +5,11 @@ subheader: "今までプロジェクトや個人作成で関わった作品を�
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.png",
+    imageFileNameDetail: "portfolio/01-full.jpg",
     header: "ロボットサービス",
     subheader: "RSNPを利用したロボットサービスの開発",
-    content: "RSNP（Robot Service Network Protocol）とは、ロボットとインターネットを接続するためのオープンなプロトコルです。多種多様なロボットがインターネット上のサービスを共通に利用でき、2004年にRSi（Robot Service initiative）が策定しました。本プロジェクトでは、東京都立産業技術大学院大学（AIIT）、慶應義塾大学SFC、株式会社富士通研究所との共同研究プロジェクトとなります。",
-    extraInfo: ["開発期間： 2011年10月～2012年2月", "カテゴリ: RSNPライブラリを活用したサービス開発","コミュニケーションツール： Skype, Facebook", "開発手法： アジャイル開発", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： LEGO MINDSTORMS、Android, RSNPサーバ（Windows 7）", "構成管理ツール： Subversion","開発環境：Eclipse, ADT(Android Development Tools)", "開発言語： Java(Android), サーバサイド（Java, HTML）"]
-  },
+    content: "RSNP（Robot Service Network Protocol）とは、ロボットとインターネットを接続するためのオープンなプロトコルです。多種多様なロボットがインターネット上のサービスを共通に利用でき、2004年にRSi（Robot Service initiative）が策定しました。本プロジェクトでは、東京都立産業技術大学院大学（AIIT）と株式会社富士通研究所との共同研究プロジェクトとなります。",
+    extraInfo: ["開発期間： 2011年10月～2012年2月", "対象: 通常のタスク管理アプリケーションで効率化出来なかった方", "カテゴリ: ペットシッターサービス等に応用","コミュニケーションツール： Skype, Google Group","プロジェクト管理ツール： Redmine", "開発手法： Unified Processをベースとした反復型プロセスを採用（チケット駆動開発）", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： App Engine(GCP)", "構成管理ツール： Subversion","開発環境：Eclipse", "開発言語： Java, HTML, JavaScript, CSS", "データベース： Cloud Bigtable(GCP)", "フレームワーク： Spring, Hibernate"]
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
     imageFileNameDetail: "portfolio/02-full.jpg",

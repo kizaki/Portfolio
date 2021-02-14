@@ -5,11 +5,11 @@ subheader: "今までプロジェクトや個人作成で関わった作品を�
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.png",
+    imageFileNameDetail: "portfolio/01-full.jpg",
     header: "ロボットサービス",
-    subheader: "RSNPを利用したロボットサービスの開発",
-    content: "RSNP（Robot Service Network Protocol）とは、ロボットとインターネットを接続するためのオープンなプロトコルです。多種多様なロボットがインターネット上のサービスを共通に利用でき、2004年にRSi（Robot Service initiative）が策定しました。本プロジェクトでは、東京都立産業技術大学院大学（AIIT）、慶應義塾大学SFC、株式会社富士通研究所との共同研究プロジェクトとなります。",
-    extraInfo: ["開発期間： 2011年10月～2012年2月", "カテゴリ: RSNPライブラリを活用したサービス開発","コミュニケーションツール： Skype, Facebook", "開発手法： アジャイル開発", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： LEGO MINDSTORMS、Android, RSNPサーバ（Windows 7）", "構成管理ツール： Subversion","開発環境：Eclipse, ADT(Android Development Tools)", "開発言語： Java(Android), サーバサイド（Java, HTML）"]
+    subheader: "ロボットサービス",
+    content: "ポケットヘルスケアでは、歩数・体重・脈拍などの「健康データ」の管理機能や、健康データと健康診断・採血検査の結果データをもとに生活習慣病の発症リスク度を提示する「健康スコア」、利用者が自覚症状を複数の質問に回答することで適切な受診先を提示する「AI受診相談」、近隣の医療機関情報を提示する「医療機関検索」の機能などをパートナー企業と連携し、提供します。これにより、日頃の健康管理が本アプリ1つで可能になります。また、都公募事業での利用実績を踏まえ、2021年4月以降、本アプリの商用提供を目指しています。",
+    extraInfo: ["日付： 2021年2月よりアサイン（開発中）", "URL: https://toshima.lg.healthcare.auone.jp/", "カテゴリ: モバイルアプリケーション", "提供会社： KDDI株式会社"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
