@@ -36,13 +36,13 @@ portfolios: [
     extraInfo: ["日付： 2021年2月よりアサイン（開発中）", "URL: https://toshima.lg.healthcare.auone.jp/", "カテゴリ: モバイルアプリケーション", "提供会社： KDDI株式会社"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.png",
-    imageFileNameDetail: "portfolio/05-full.png",
+    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/05-full.jpg",
     header: "カタぞう（カメラアプリ）",
-    subheader: "モバイル／ウェブアプリケーション",
+    subheader: "モバイルアプリケーション",
     content: "「カタぞう」とは、見慣れた日常の一コマを、思わず笑みのこぼれる一枚に変えられる簡単・シンプルなカメラアプリです。お気に入りのテンプレートを使って、面白い写真を簡単に撮影できます。（2017年サービス終了）",
-    extraInfo: ["開発期間： 2010年11月～2011年2月", "対象: 一般ユーザー", "カテゴリ: モバイルアプリ、ウェブシステム", "開発手法： ウォーターフォール開発", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： Linux, Apache", "開発環境：Eclipse, テキストエディタ", "開発言語： Java, PHP, HTML, JavaScript, CSS","フレームワーク： CakePHP（ウェブアプリ側）", "データベース： MySQL", "提供会社： BPS株式会社"]
-    },
+    extraInfo: ["開発期間： 2010年11月～2011年2月", "URL: https://kizaki.github.io/", "対象: 自分の研究成果などの公開用", "カテゴリ: ウェブサイト", "開発手法： スクラッチ開発", "インフラ基盤： GitHub Pages", "開発環境：VSCode", "開発言語： HTML, JavaScript, CSS", "提供会社： BPS株式会社"]
+ 　},
  # {
  #   imageFileName: "portfolio/06-thumbnail.jpg",
  #   imageFileNameDetail: "portfolio/06-full.jpg",

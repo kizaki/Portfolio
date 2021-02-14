@@ -36,13 +36,13 @@ portfolios: [
     extraInfo: ["日付： 2021年2月よりアサイン（開発中）", "URL: https://toshima.lg.healthcare.auone.jp/", "カテゴリ: モバイルアプリケーション", "提供会社： KDDI株式会社"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.png",
-    imageFileNameDetail: "portfolio/05-full.png",
+    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/05-full.jpg",
     header: "カタぞう（カメラアプリ）",
-    subheader: "モバイル／ウェブアプリケーション",
-    content: "「カタぞう」とは、見慣れた日常の一コマを、思わず笑みのこぼれる一枚に変えられる簡単・シンプルなカメラアプリです。お気に入りのテンプレートを使って、面白い写真を簡単に撮影できます。（2017年サービス終了）",
-    extraInfo: ["開発期間： 2010年11月～2011年2月", "対象: 一般ユーザー", "カテゴリ: モバイルアプリ、ウェブシステム", "開発手法： ウォーターフォール開発", "設計ツール： astah(UML作成支援ツール)", "インフラ基盤： Linux, Apache", "開発環境：Eclipse, テキストエディタ", "開発言語： Java, PHP, HTML, JavaScript, CSS","フレームワーク： CakePHP（ウェブアプリ側）", "データベース： MySQL", "提供会社： BPS株式会社"]
-    },
+    subheader: "モバイルアプリケーション",
+    content: "ポケットヘルスケアでは、歩数・体重・脈拍などの「健康データ」の管理機能や、健康データと健康診断・採血検査の結果データをもとに生活習慣病の発症リスク度を提示する「健康スコア」、利用者が自覚症状を複数の質問に回答することで適切な受診先を提示する「AI受診相談」、近隣の医療機関情報を提示する「医療機関検索」の機能などをパートナー企業と連携し、提供します。これにより、日頃の健康管理が本アプリ1つで可能になります。また、都公募事業での利用実績を踏まえ、2021年4月以降、本アプリの商用提供を目指しています。",
+    extraInfo: ["開発期間： 2010年11月～2011年2月", "URL: https://kizaki.github.io/", "対象: 自分の研究成果などの公開用", "カテゴリ: ウェブサイト", "開発手法： スクラッチ開発", "インフラ基盤： GitHub Pages", "開発環境：VSCode", "開発言語： HTML, JavaScript, CSS", "提供会社： BPS株式会社"]
+ 　},
  # {
  #   imageFileName: "portfolio/06-thumbnail.jpg",
  #   imageFileNameDetail: "portfolio/06-full.jpg",
